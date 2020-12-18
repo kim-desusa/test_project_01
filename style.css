@@ -1,0 +1,21 @@
+/* body{
+    background-color:rgb(27, 73, 110);
+    padding:0;
+    margin:0;
+    background-size: 30px 30px;
+    background-image: radial-gradient(
+        
+        transparent 7px, rgb(67, 119, 179) 7px
+       , rgb(67, 119, 179) 12px, transparent 12px 
+       ,  transparent 17px , rgb(205, 215, 235) 17px
+       ,   rgb(205, 215, 235) 19px ,transparent 19px
+    ); */
+    body{
+        background-color:rgb(90, 66, 112);
+        padding:0;
+        margin:0;
+        background-size: 60px 60px;
+        background-image: radial-gradient(
+            pink 5px, transparent 5px
+        );
+}
